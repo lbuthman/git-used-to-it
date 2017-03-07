@@ -1,0 +1,26 @@
+1. Decided I wanted to get a Master's in CIS, and began watching training videos on Lynda.com. Simon Aldrice is the
+    name that comes to mind.
+2. CIS 606 --> general introductory class: number systems, operating systems, all that good stuff, and learning
+    to get around Linux with a final project creating a basic Linux program
+   CIS 600 --> Project Management
+   CIS 610 --> Application Development: i.e. BA using UML with some data modeling
+   CIS 620 --> Operating Systems & Networking: VMWare servers installation, managing network with PowerShell IDE
+    scripting, and all the concepts of networking that you would expect in a general sense
+3. Decided to make the switch from Audio Engineering to IT work and knew if I worked at it, I could get a help desk
+    job. I studied, got my A+ certification and got hired at a well respected physician owned hospital.
+4. CIS 575 --> Applied Data Mining
+   Listened to Tim Ferriss podcast with Derek Sivers and everything changed. Read "So Good They Can't Ignore You."
+5. CIS 606 --> Application Development: my first programming course using VB.net
+   Following recent inspiration, took an totally new approach to the course with a new look at education.
+6. Learned about databased and built a system for my mother's business to ETL huge data sets from Walmart into
+    a Microsoft SQL database and perform analysis to drive marketing decisions
+7. Python Learning --> HTML --> CSS --> JavaScript --> PHP --> AutoIt for work
+8. FreeCodeCampe until I got to a problem only solved via recursion and it blew my mind
+9. Found OSSU --> CS50, GitHub, Learning to Learn, Effective Thinking through Math
+   Another Cal Newport book "Deep Work"
+10. Java class & reading through the book.
+11. Math issues from lack of mature foundation, rolling back to Pre-Calculus and holding off OSSU Math courses until
+    that is completed.
+12. App idea / opportunity --> created via Excel for my own use and benefit
+13. NOW: iterating through App idea w/ the foundation I have built over the last few years, learning and exploring
+    how to do it in the real-world !! From ashy to classy !! & 30-Day GitHub Challenge "git used to it"
