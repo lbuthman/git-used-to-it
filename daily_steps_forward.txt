@@ -7,3 +7,9 @@ Day 2 - 3/6/17
     functionality, design, or care
 4. created background notes on my foundation up to this point for voyeurs and people looking for help
 5. TODO create terse view of Education, terse view on Writing
+
+Day 3 - 3/7/17
+
+1. finished two sections, Ch. 3 Pre-Calc book
+2. researched more technologies: TODO add list from work
+3. slightly updated client / coach screen using GroupLayout
