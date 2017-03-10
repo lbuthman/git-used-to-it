@@ -1,3 +1,13 @@
+Day 5 - 3/9/17
+1. completed one section, C. 4 Pre-Calc book
+2. recalibrated Java reading goals with improve direction
+3. began writing my thoughts on education and writing, good start
+4. fixed client login screen formatting and spacing to a good-enough-for-now standard, goal is to be barely
+good at swing UI dev and I have reached that goal for now
+5. added notes on user stories for app to text file
+6. added future enhancement ideas to text file
+7. stored idea for future app in text file
+
 Day 4 - 3/8/17
 
 1. finished chapter and quiz, Ch. 3 Pre-Calc book
@@ -18,4 +28,3 @@ Day 2 - 3/6/17
 3. made the first client/coach screen and first login screen, and they are the ugliest things with zero
     functionality, design, or care
 4. created background notes on my foundation up to this point for voyeurs and people looking for help
-5. TODO create terse view of Education, terse view on Writing
