@@ -7,46 +7,48 @@ import java.awt.*;
  */
 public class ClientLoginScreen extends JPanel {
 
-    private JLabel jlbFirst, jlbLast, jlbBirthdate, jlbEmail, jlbPassword, jlbMessage, jlbUsername;
-    private JTextField jtfFirst, jtfLast, jtfBirthdate, jtfEmail, jtfUserName;
-    private JPasswordField jtfPassword;
-    private JButton jbtnSignUp, jbtnLogin, jbtnReset;
+    private JLabel lbFirst, lbLast, lbBirthdate, lbEmail, lbPWLogin, lbPWSignUp, lbMessage, lbUsernameSignup, lbUsernameLogin;
+    private JTextField tfFirst, tfLast, tfBirthdate, tfEmail, tfUsernameSignup, tfUsernameLogin;
+    private JPasswordField tfPWLogin, tfPWSignUp;
+    private JButton btnSignUp, btnLogin, btnReset;
 
     public ClientLoginScreen() {
 
         initGUI();
         constructLayout();
 
-        jbtnSignUp.addActionListener(e -> { });
+        btnSignUp.addActionListener(e -> { });
 
-        jbtnLogin.addActionListener(e -> { });
+        btnLogin.addActionListener(e -> { });
 
-        jbtnReset.addActionListener(e -> { });
+        btnReset.addActionListener(e -> { });
     }
 
     private void initGUI() {
 
-        jlbMessage = new JLabel("StrongFood Login", JLabel.CENTER);
-        jlbFirst = new JLabel("First Name: ");
-        jlbLast = new JLabel("Last Name: ");
-        jlbEmail = new JLabel("Email Address: ");
-        jlbBirthdate = new JLabel("Birthdate: ");
-        jlbPassword = new JLabel("Password: ");
-        jlbUsername = new JLabel("Username: ");
+        lbMessage = new JLabel("StrongFood Login", JLabel.CENTER);
+        lbFirst = new JLabel("First Name: ");
+        lbLast = new JLabel("Last Name: ");
+        lbEmail = new JLabel("Email Address: ");
+        lbBirthdate = new JLabel("Birthdate: ");
+        lbPWLogin = new JLabel("Password: ");
+        lbPWSignUp = new JLabel("Password: ");
+        lbUsernameSignup = new JLabel("Username: ");
+        lbUsernameLogin = new JLabel("Username: ");
 
-        jtfFirst = new JTextField(6);
-        jtfFirst.setPreferredSize(new Dimension(1, 1));
-        jtfFirst.setMaximumSize(new Dimension(1, 1));
-        jtfLast = new JTextField(6);
-        jtfBirthdate = new JTextField(6);
-        jtfEmail = new JTextField(6);
-        jtfUserName = new JTextField(6);
+        tfFirst = new JTextField();
+        tfLast = new JTextField();
+        tfBirthdate = new JTextField();
+        tfEmail = new JTextField();
+        tfUsernameSignup = new JTextField();
+        tfUsernameLogin = new JTextField();
 
-        jtfPassword = new JPasswordField(6);
+        tfPWLogin = new JPasswordField();
+        tfPWSignUp = new JPasswordField();
 
-        jbtnLogin = new JButton("Log Me In!");
-        jbtnReset = new JButton("Forgot Password");
-        jbtnSignUp = new JButton("Sign Me Up!");
+        btnLogin = new JButton("Log Me In!");
+        btnReset = new JButton("Forgot Password");
+        btnSignUp = new JButton("Sign Me Up!");
 
     }
 
@@ -57,44 +59,48 @@ public class ClientLoginScreen extends JPanel {
 
         JPanel leftPanel = new JPanel();
         GridLayout gridLeft = new GridLayout(7, 2, 5, 5);
+        leftPanel.setMaximumSize(new Dimension(250, 220));
         leftPanel.setLayout(gridLeft);
-        leftPanel.add(jlbFirst);
-        leftPanel.add(jtfFirst);
-        leftPanel.add(jlbLast);
-        leftPanel.add(jtfLast);
-        leftPanel.add(jlbBirthdate);
-        leftPanel.add(jtfBirthdate);
-        leftPanel.add(jlbEmail);
-        leftPanel.add(jtfEmail);
-        leftPanel.add(jlbUsername);
-        leftPanel.add(jtfUserName);
-        leftPanel.add(jlbPassword);
-        leftPanel.add(jtfPassword);
-        leftPanel.add(jbtnSignUp);
+        leftPanel.add(lbFirst);
+        leftPanel.add(tfFirst);
+        leftPanel.add(lbLast);
+        leftPanel.add(tfLast);
+        leftPanel.add(lbBirthdate);
+        leftPanel.add(tfBirthdate);
+        leftPanel.add(lbEmail);
+        leftPanel.add(tfEmail);
+        leftPanel.add(lbUsernameSignup);
+        leftPanel.add(tfUsernameSignup);
+
+        leftPanel.add(lbPWSignUp);
+        leftPanel.add(tfPWSignUp);
+        leftPanel.add(btnSignUp);
 
         leftBox.add(Box.createVerticalStrut(20));
-        leftBox.setSize(200, 400);
+        leftBox.setSize(200, 200);
         leftBox.add(leftPanel);
 
         Box rightBox = Box.createVerticalBox();
-        rightBox.add(jlbUsername);
-        rightBox.add(jtfUserName);
-        rightBox.add(jlbPassword);
-        rightBox.add(jtfPassword);
-        rightBox.add(jbtnLogin);
-        rightBox.add(jbtnReset);
 
-        rightBox.setSize(200, 400);
+        JPanel rightPanel = new JPanel();
+        GridLayout rightGrid = new GridLayout(3, 2, 5, 5);
+        rightPanel.setMaximumSize(new Dimension(275, 95));
+        rightPanel.setLayout(rightGrid);
+        rightPanel.add(lbUsernameLogin);
+        rightPanel.add(tfUsernameLogin);
+        rightPanel.add(lbPWLogin);
+        rightPanel.add(tfPWLogin);
+        rightPanel.add(btnLogin);
+        rightPanel.add(btnReset);
 
-        Box centerBox = Box.createVerticalBox();
-        centerBox.setSize(200, 400);
+        rightBox.add(Box.createVerticalStrut(40));
+        rightBox.add(rightPanel);
 
 
         setLayout(new BorderLayout());
-        add(jlbMessage, "North");
+        add(lbMessage, "North");
         add(leftBox, "West");
         add(rightBox, "East");
-        add(centerBox, "Center");
 
     }
 
@@ -104,7 +110,7 @@ public class ClientLoginScreen extends JPanel {
         frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         Container contentPane = frame.getContentPane();
         contentPane.add(new ClientLoginScreen());
-        frame.setSize(600, 600);
+        frame.setSize(600, 300);
         frame.setVisible(true);
     }
 }
