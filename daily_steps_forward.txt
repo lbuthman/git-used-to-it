@@ -1,6 +1,18 @@
-Day 5 - 3/9/17
-1. completed one section, C. 4 Pre-Calc book
-2. recalibrated Java reading goals with improve direction
+Day 06 - 03/10/17
+1. completed section 2, Ch. 4 Pre-Calc book
+2. completed Ch. 31 in Java book
+3. worked out algorithm for calculating calories by meal
+4. finished typing in artifacts developed yesterday
+5. followed example in book to build distributed tic tac toe game -- the code they have is not perfect but is
+an interesting jumping off point and definitely a lot to take in. One problem is that for testing, it only allows
+one localhost, so it is impossible to play by myself. The second problem is that it does not close gracefully; I
+think I can improve that with one line of code that closes the javafx correctly. A good improvement of the game
+would be to allow competition vs. a computer, that way I can test it out completely.
+
+Day 05 - 03/09/17
+
+1. completed one section, Ch. 4 Pre-Calc book
+2. re-calibrated Java reading goals with improve direction
 3. began writing my thoughts on education and writing, good start
 4. fixed client login screen formatting and spacing to a good-enough-for-now standard, goal is to be barely
 good at swing UI dev and I have reached that goal for now
@@ -8,19 +20,19 @@ good at swing UI dev and I have reached that goal for now
 6. added future enhancement ideas to text file
 7. stored idea for future app in text file
 
-Day 4 - 3/8/17
+Day 04 - 03/08/17
 
 1. finished chapter and quiz, Ch. 3 Pre-Calc book
 2. researched more technologies: Gradle, Griffon, Grails, Node.js, React, Foundations
 3. updated client/coach screen and created basic client login screen
 
-Day 3 - 3/7/17
+Day 03 - 03/07/17
 
 1. finished two sections, Ch. 3 Pre-Calc book
 2. researched more technologies: Hibernate, Persistence, Kotlin, OSGI, Spring, Maven
 3. slightly updated client / coach screen using GroupLayout
 
-Day 2 - 3/6/17
+Day 02 - 03/06/17
 
 1. finished quiz, Ch. 2 Pre-Calc book
 2. researched in a very high level sense the following: JBoss, Arquillian, Struts, Struts 2, Maven, repositories,
