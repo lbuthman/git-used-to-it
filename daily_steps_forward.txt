@@ -1,3 +1,13 @@
+Day 07 - 03/11/17
+1. test prep for Java course
+2. found Thinking in Java and read the introduction, first chapter and started the GUI chapter
+3. discovered a potential method of practice, modeled after my background in classical guitar. It only makes
+sense to me to practice the same solution several times to really deepen and memorize the process of coding,
+syntax, or solution concept. This is a key artifact and potential source of value that I can develop, author
+and offer.
+4. started Ch. 32 in old Java book
+-- most of the day was downtime due to computer battery recalibration
+
 Day 06 - 03/10/17
 1. completed section 2, Ch. 4 Pre-Calc book
 2. completed Ch. 31 in Java book
