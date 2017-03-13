@@ -1,3 +1,9 @@
+Day 08 - 03/12/17
+1. finished a couple sections, Think In Java
+2. finished chapter and quiz, ch. 4 Pre-Calc
+3. studied and took Java course mid-term
+4. made good progress on PP3, put in about 3 hours and got most of it working
+
 Day 07 - 03/11/17
 1. test prep for Java course
 2. found Thinking in Java and read the introduction, first chapter and started the GUI chapter
