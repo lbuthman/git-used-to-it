@@ -1,8 +1,18 @@
+Day 10 - 03/14/17
+1. finished one section, ch. 5 Pre-Calc
+2. finished a chapter, Think In Java
+3. read Oracle doc about naming conventions in Java
+
+Day 09 - 03/13/17
+1. finished one section, ch. 5 Pre-Calc
+2. read a few sections, Think In Java
+3. put in about more 3 hours, assignment PP3 Java Course
+
 Day 08 - 03/12/17
 1. finished a couple sections, Think In Java
 2. finished chapter and quiz, ch. 4 Pre-Calc
 3. studied and took Java course mid-term
-4. made good progress on PP3, put in about 3 hours and got most of it working
+4. put in about 3 hours, assignment PP3 Java Course
 
 Day 07 - 03/11/17
 1. test prep for Java course
