@@ -1,3 +1,11 @@
+Day 14 - 03/19/17
+1. read article on debugging code with IDE
+2. finished Operators and Controlling Execution chapters and exercises, Think in Java
+3. found IDE for JavaScript
+4. watch training videos for IntelliJ IDEA
+5. found Full Stack Dev training resource via Udacity, very cool looking
+6. finished small section, ch. 6 Pre-Calc
+
 Day 13 - 03/18/17
 1. finished one section, ch. 6 Pre-Calc
 2. finished reading sections, Operators: Think in Java // exercises were lame in these sections
