@@ -1,3 +1,9 @@
+Day 15 - 03/20/17
+1. completed ch. 32, started ch. 34 Java 9th edition - 100 min
+2. continued one section, ch 6. Pre-Calc - 15 min
+3. began PA06, Java Course - 50 min
+4. read and exercises, Initialization & Cleanup, Think in Java - 50 min
+
 Day 14 - 03/19/17
 1. read article on debugging code with IDE
 2. finished Operators and Controlling Execution chapters and exercises, Think in Java
