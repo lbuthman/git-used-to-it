@@ -1,8 +1,16 @@
+Day 17 - 03/22/17
+1. read and exercises, Initialization & Cleanup, Think in Java - 75 min
+2. installed local mySQL database, Workbench, and connected with Eclipse - 75 min
+3. Practice problems 1 and 2, ch. 6 Pre Calc
+4. finished Up & Going, YDKJS
+5. completed PA06, Java Course - 50 min
+
+
 Day 16 - 03/21/17
 1. catching up with class and configuring database connection - 50 min
 2. read and exercises, Initialization & Cleanup, Think in Java - 50 min
 3. worked on PA06, Java Course - 75 min
-4. Atom setup and JS practice problem - 50 min
+4. Atom setup and JS practice problem, YDKJS - 50 min
 
 Day 15 - 03/20/17
 1. completed ch. 32, started ch. 34 Java 9th edition - 100 min
