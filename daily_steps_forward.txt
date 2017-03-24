@@ -1,3 +1,10 @@
+Day 18 - 03/23/17
+1. continued database programming intro, Java 9th edition - 50 min
+2. read and exercises, Initialization & Cleanup, Think in Java - 25 min
+3. completed GUI and basic initialization PA07, Java Course - 120 min
+4. finished ch. 1, Scope & Closures, YDKJS
+5. I get the recursion problem, Free Code Camp - almost four months later!! :)
+
 Day 17 - 03/22/17
 1. read and exercises, Initialization & Cleanup, Think in Java - 75 min
 2. installed local mySQL database, Workbench, and connected with Eclipse - 75 min
