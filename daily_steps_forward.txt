@@ -1,3 +1,8 @@
+Day 19 - 03/24/17
+1. began chapter and exercises Access Control, Think in Java - 25 min
+2. refactored PA06, Java Course - 90 min
+3. refactored PA07 and added GUI validation - 60 min
+
 Day 18 - 03/23/17
 1. continued database programming intro, Java 9th edition - 50 min
 2. read and exercises, Initialization & Cleanup, Think in Java - 25 min
