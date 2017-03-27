@@ -1,3 +1,10 @@
+Day 21 - 03/26/17
+1. read and exercises, Access Control, Think in Java - 90 min
+2. continued on PA07, Java Course - 210  min
+
+Day 20 - 03/25/17
+--- DAY OFF :) !!! ----
+
 Day 19 - 03/24/17
 1. began chapter and exercises Access Control, Think in Java - 25 min
 2. refactored PA06, Java Course - 90 min
