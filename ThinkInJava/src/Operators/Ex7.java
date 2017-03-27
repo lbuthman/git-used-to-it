@@ -6,7 +6,7 @@ import java.util.*;
  * Created by lbuthman on 3/15/17.
  */
 
-class Coin {
+public class Ex7 {
 
     String side = "";   //one of two values: heads or tails
 
@@ -24,7 +24,7 @@ class Coin {
         return side;
     }
 }
-
+/*
 public class Ex7 {
     public static void main(String[] args) {
 
@@ -42,4 +42,4 @@ public class Ex7 {
 
         System.out.println("Best out of 100 - Heads: " + heads + " Tails: " + tails);
     }
-}
+}*/
