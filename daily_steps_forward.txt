@@ -1,3 +1,11 @@
+Day 22 - 03/27/17
+1. question number 4 and started 5, ch. 6, Pre-Calc - 25 min
+2. read and exercises, Reusing Classes, Think in Java - 25 min
+3. read ch. 34, Java Book - 25 min
+4. review PA03 issues, Java Course - 25 min
+5. completed count8 recursion problem, Code Bat
+6. completed exercises in ch. 2 and 3, Think Python
+
 Day 21 - 03/26/17
 1. read and exercises, Access Control, Think in Java - 90 min
 2. continued on PA07, Java Course - 210  min
@@ -23,7 +31,6 @@ Day 17 - 03/22/17
 3. Practice problems 1 and 2, ch. 6 Pre Calc
 4. finished Up & Going, YDKJS
 5. completed PA06, Java Course - 50 min
-
 
 Day 16 - 03/21/17
 1. catching up with class and configuring database connection - 50 min
