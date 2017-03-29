@@ -1,10 +1,23 @@
+Day 23 - 03/28/17
+1. read and exercises, Reusing Classes, Think in Java - 40 min
+2. read and execute examples, ch. 34, Java Book - 60 min
+3. CardLayout research - 25 min
+4. completed powerN, countX recursion problem, Code Bat
+5. submitted PA07 assignment, Java Course
+6. finished ch. 4, Scope & Closures, YDKJS
+7. attempted ch. 4 Think Python exercises but Swampy is not compatible with latest version of Tkinter :(
+8. got CardLayout working with different GUI class files to avoid monolithic GUI class, Final Project, Java Course
+9. started watching Programming Foundations with Python, Udacity
+10. installed Python2 and fixed problems with Swampy :) !!
+
 Day 22 - 03/27/17
 1. question number 4 and started 5, ch. 6, Pre-Calc - 25 min
 2. read and exercises, Reusing Classes, Think in Java - 25 min
 3. read ch. 34, Java Book - 25 min
 4. review PA03 issues, Java Course - 25 min
 5. completed count8 recursion problem, Code Bat
-6. completed exercises in ch. 2 and 3, Think Python
+6. read and completed exercises in ch. 2 and 3, Think Python
+7. finished ch. 3, Scope & Closures, YDKJS
 
 Day 21 - 03/26/17
 1. read and exercises, Access Control, Think in Java - 90 min
@@ -17,6 +30,7 @@ Day 19 - 03/24/17
 1. began chapter and exercises Access Control, Think in Java - 25 min
 2. refactored PA06, Java Course - 90 min
 3. refactored PA07 and added GUI validation - 60 min
+4. finished ch. 2, Scope & Closures, YDKJS
 
 Day 18 - 03/23/17
 1. continued database programming intro, Java 9th edition - 50 min
