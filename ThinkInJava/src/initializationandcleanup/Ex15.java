@@ -1,4 +1,4 @@
-package InitializationAndCleanup;
+package initializationandcleanup;
 
 /**
  * Created by lbuthman on 3/22/17.

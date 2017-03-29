@@ -1,6 +1,6 @@
 package accesscontrol;
 
-import Operators.*;
+import operators.*;
 
 /**
  * Created by lbuthman on 3/26/17.

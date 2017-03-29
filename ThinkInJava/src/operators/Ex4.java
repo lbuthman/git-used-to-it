@@ -1,4 +1,4 @@
-package Operators;
+package operators;
 
 /**
  * Created by lbuthman on 3/15/17.
