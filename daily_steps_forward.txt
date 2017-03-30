@@ -1,3 +1,12 @@
+Day 24 - 03/29/17
+1. read and exercises, Reusing Classes, Think in Java - 45 min
+2. completed countHi, changeXY, changePi, noX, array6 recursion problem, Code Bat
+3. read ch. 35 Advanced Database, Java Book - 25 min
+4. completed login GUIs and communication between classes to switch screens, Final, Java Course
+5. finished ch. 5, Scope & Closures, YDKJS
+6. read ch. 5, Think Python (holding off exercises for now)
+7. completed 16/33 videos and 1 simple exercise, Programming Foundations with Python, Udacity
+
 Day 23 - 03/28/17
 1. read and exercises, Reusing Classes, Think in Java - 40 min
 2. read and execute examples, ch. 34, Java Book - 60 min
