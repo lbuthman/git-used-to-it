@@ -1,3 +1,11 @@
+Day 25 - 03/30/17
+1. read and exercises, Reusing Classes, Think in Java - 25 min
+2. catch up with class, Java Course
+3. review Client Server and Multithreading chapter, Java Book - 120 min
+4. finished appendices Scope & Closures, YDKJS
+5. completed array11, array220 recursion problem, Code Bat
+6. finished Lesson 1, Programming Foundations with Python, Udacity
+
 Day 24 - 03/29/17
 1. read and exercises, Reusing Classes, Think in Java - 45 min
 2. completed countHi, changeXY, changePi, noX, array6 recursion problem, Code Bat
