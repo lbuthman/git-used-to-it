@@ -1,3 +1,9 @@
+Day 26 - 03/31/17
+1. read and exercises, Reusing Classes, Think in Java - 25 min
+2. review Client Server - 75 min
+3. started PA08, Java Course - 90 min
+4. read ch.1, This & Object Prototypes
+
 Day 25 - 03/30/17
 1. read and exercises, Reusing Classes, Think in Java - 25 min
 2. catch up with class, Java Course
