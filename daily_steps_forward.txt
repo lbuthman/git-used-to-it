@@ -1,3 +1,7 @@
+Day 27 - 04/01/17
+1. finish section 2, Programming Foundations with Python, Udacity
+2. continue PA08, Java Course - 300 min
+
 Day 26 - 03/31/17
 1. read and exercises, Reusing Classes, Think in Java - 25 min
 2. review Client Server - 75 min
