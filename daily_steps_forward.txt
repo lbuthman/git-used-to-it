@@ -1,3 +1,8 @@
+Day 28  04/02/17
+1. complete Calculator, javascript jQuery ala CodeAcademy, slightly useful - 3 hours
+2. finish section 3, Programming Foundations with Pythong, Udacity
+3. continue PA08, Java Course - 1 hour 40 min
+
 Day 27 - 04/01/17
 1. finish section 2, Programming Foundations with Python, Udacity
 2. continue PA08, Java Course - 300 min
