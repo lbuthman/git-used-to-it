@@ -1,6 +1,59 @@
-Day 28  04/02/17
+Day 29 - 04/02/17
+1. recalibrate learning objectives and path - 120 min
+2. continue PA08, Java Course - 120 min
+***UPDATED PLAN***
+Nearing the completion of the #gitusedtoit 30 Day Challenge, I have reviewed the past several learning paths
+and updating the path for the new phase. Without being verbose, here is where things stand
+    - Java Course is almost complete. Much of the last path focused on Java development skill; moving forward,
+    my goals are for Full Stack Dev work and I am therefore putting Java on hold.
+    - Reaching further back, before this challenge, I was working on OSSU. The main takeaway from that stage was
+    the need to focus on Math. My progress has halted in this course and needs to be unstuck. Therefore, I will
+    devote at least 30 min to Math, at least 5 days a week, picking back up Pre-Calc.
+    - The most in demand languages for Full Stack Dev are JavaScript and Python. Therefore, I will primarily
+    focus on those languages. I found one book for each as deeper jumping off points. Each day I will read
+    on these and do any associated exercises, like I did with Think in Java, creating unique GitHub repositories.
+    During work, when I have time, I will review what I have read and take notes. The daily Push will contain
+    exercises and notes. Every weekend, I will review the notes and chapters as needed. This review need not be
+    too long, otherwise I will hate it. However, it must not be superficial. This is a great time to deepen and
+    refresh the lessons learned and will require some overcoming of pain and mental resistance.
+    - Soon, my Java course will be completed and I can devote more time to Python and JavaScript projects. I have
+    found through this current phase that projects are best for evenings and weekends. I love working on them and
+    they provide a break of sorts. I will continue with this, using the Udacity Full Stack Dev curriculum as
+    a source of projects initially. COMPLETING THE UDACITY PROGRAM WILL MARK THE END OF THIS NEXT PHASE.
+    - In addition, bonus projects can be found on FreeCodeCamp which I will do in parallel with Udacity.
+    COMPLETING FREECODECAMP ALSO CONSTITUTES COMPLETION OF THIS NEXT PHASE.
+    - After dealing with some personal matters, I will join Python and Javascript Meetups as time permits. This
+    is brand new to me and entirely experimental. As such, I will consider any approach to it as an experiment
+    and not as a commitment.
+    - YDKJS has been reprioritized and will be pushed back for at least one month. I will turn my attention to
+    Eloquent Javascript and Essential Python books. I can usually find time to read during work and will
+     take notes as I come across new ideas, etc. These notes will be taken home and reviewed in the morning,
+     entered into a text file and then reviewed at the end of the week.
+    - The major shortcoming in past projects was how I made it through problems. Historically, I work my way
+    through, but don't record the obstacle or the solution. This is not optimal since there is no record of
+    growth to use for the future. That solution isn't left behind and not reviewed for deeper comprehension
+    which leads to mastery. Therefore I will record both moving forward.
+    - Each project should include a formalized plan of attach. The detail needed is unknown and so the
+    effort will be experimental. As such, I will do whatever is natural and helpful, refining the process
+    as I continue in the Phase.
+    - I will pick back up with Toggl for time tracking on projects. During this phase, I began tracking time
+    with Pomodoro. I found it great for reading tasks, tasks that needed to be chipped at over the course of
+    several weeks. However, for project work, I did not find it useful. I get too deeply involved in a project
+    to worry about 25 min increments. I then transitioned to an online timer, which I will now upgrade to
+    Toggl.
+    - During the end of this phase, I Pushed my commits to GitHub in the morning for the previous days work.
+    I found this to be a better workflow since I would sometimes forget in the evening. First thing in the morning
+    though is not a prob because that is what I wake up thinking about. I will continue with this workflow.
+    However, for projects, I need to commit more. These commits should get closer to industry standard, where
+    a commit represents a sufficient change in the code. In addition, I need to ensure that my commit directories
+    are managed correctly. I ran into an issue with Think In Java exercises where I was committing only the top
+    level directory. Whenever I added a new folder or exercises, the commit message for the entire file structure
+    changed to the new commit message. This is not ideal. I need to make sure that one commit is precisely tracked
+    for a certain folder or file. (Note: For "daily steps forward", once a day is perfect.)
+
+Day 28  - 04/02/17
 1. complete Calculator, javascript jQuery ala CodeAcademy, slightly useful - 3 hours
-2. finish section 3, Programming Foundations with Pythong, Udacity
+2. finish section 3, Programming Foundations with Python, Udacity
 3. continue PA08, Java Course - 1 hour 40 min
 
 Day 27 - 04/01/17
