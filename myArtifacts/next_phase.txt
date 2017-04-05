@@ -1,0 +1,9 @@
+1. Java learning is on hold.
+2. Math focus, at least 5, 30 min blocks a week.
+3. Reading Eloquent JavaScript and Essential Python. YDKJS to follow and others as needed.
+4. Take notes, review in the morning, weekly review on the weekend.
+5. (Experiment only, not full requirement) Join Python, JS or other similar coding community via MeetUp.
+6. Record Project Plan -> Updated Plan -> Lessons Learned during and after
+7. Reenlist Toggle during Projects for better time tracking.
+8. All daily commits are done in the morning, all project commits are more frequent/as needed.
+9. Completing Udacity and FreeCodeCamp Programs will mark the end of this phase.
